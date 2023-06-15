@@ -5,6 +5,8 @@
 | Fecha actualizacion: 77777
 \********************************************/ 
 
+/*Añado este comentario */
+
 data work.myclass;
   set sashelp.class;
   alturacm=height*2.54; /* msbckjsdnbcknc */
