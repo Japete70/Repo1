@@ -7,6 +7,8 @@
 
 /*Añado este comentario */
 
+title 'Buenos dias';
+
 data work.myclass;
   set sashelp.class;
   alturacm=height*2.54; /* msbckjsdnbcknc */
